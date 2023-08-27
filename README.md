@@ -19,8 +19,8 @@ To get the project up and running, take the following steps:
 
 
 ```
-git clone ......
-cd .....
+git clone https://github.com/maryamyasaei/keymaas-coding-challenge.git
+cd keymaas-coding-challenge
 npm install
 npm run dev
 ```
